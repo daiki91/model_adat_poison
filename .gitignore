@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+*.pyd
+*.pdb
+*.egg
+*.eggs
+*.whl
+*.manifest
+*.spec
+*.log
+*.pot
+*.mo
+*.env
+.env/
+venv/
+env/
+ENV/
+
+# Jupyter Notebooks
+*.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Saved models
+saved_models/
+
+# Pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Misc
+*.swp
+*.swo
+*.bak
+*.tmp
+*.~
+
+# Ignore site-packages
+Lib/site-packages/
+
+# Ignore Scripts
+Scripts/
